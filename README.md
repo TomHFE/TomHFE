@@ -3,9 +3,6 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
 <h3 align="center">Im a Student and aspiring Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomhfe&label=Profile%20views&color=0e75b6&style=flat" alt="tomhfe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomhfe" alt="tomhfe" /></a> </p>
 
 - 🔭 I’m currently working on **My final project with HyperionDev Bootcamp**
 
