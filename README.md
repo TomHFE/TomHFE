@@ -4,7 +4,7 @@
 <h3 align="center">Im a Student and aspiring Front End Developer</h3>
 
 
-- 🔭 I’m currently working on **My final project with HyperionDev Bootcamp**
+- 🔭 I’m currently **Actively looking for work having completed my Hyperion Dev Bootcamp!**
 
 - 🌱 I’m currently learning **React Javascript CSS Redux and more!**
 
